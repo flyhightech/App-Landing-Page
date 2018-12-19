@@ -1,3 +1,17 @@
 .jumbotron {
-    background-image: url(assets/Chicago_Skyline.jpg);
+    background-image: url(assets/Water_Image.jpg);
+    align-content: center;
+
+}
+
+form {
+    margin: auto;
+}
+
+#appSummary {
+    text-align: center;
+}
+
+.card-img-top {
+    height: 250px;
 }
