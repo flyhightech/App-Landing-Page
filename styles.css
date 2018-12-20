@@ -1,26 +1,47 @@
 .jumbotron {
-    background-image: url(assets/Water_Image.jpg);
-    align-content: center;
+
+    background-image: url(background.jpg);
+    text-align: center;
+    margin-top: 50px;
 }
 
-form {
-    margin: auto;
+#email {
+
+    width: 300px;
+
 }
 
 #appSummary {
+
     text-align: center;
-    margin: 100px auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
 }
 
 .card-img-top {
-    height: 250px;
-    margin: auto;
-    padding: 1rem;
+
+    width: 100%;
+
+}
+
+#appStoreIcon {
+
+    width: 200px;
+
 }
 
 #footer {
+
     background-color: aqua;
-    padding: 90px;
-    margin: 50px;
+    padding-top: 150px;
+    margin-top: 50px;
     text-align: center;
+    padding-bottom: 150px;
+}
+
+body {
+
+    position: relative;
+
 }
