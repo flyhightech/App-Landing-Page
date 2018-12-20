@@ -1,8 +1,6 @@
-
 .jumbotron {
     background-image: url(assets/Water_Image.jpg);
     align-content: center;
-
 }
 
 form {
@@ -18,4 +16,11 @@ form {
     height: 250px;
     margin: auto;
     padding: 1rem;
+}
+
+#footer {
+    background-color: aqua;
+    padding: 90px;
+    margin: 50px;
+    text-align: center;
 }
